@@ -1,9 +1,9 @@
 {
-  "name": "hackathon-starter",
+  "name": "bitcoin-api-talk",
   "version": "3.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/beforeyouknowit/bitcoin-api-talk.git"
   },
   "scripts": {
     "start": "node app.js",
@@ -69,5 +69,23 @@
     "multiline": "^1.0.2",
     "supertest": "^1.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Ashley and Israa's talk on bitcoin and blockchain APIs, visualizing serialzed JSON data via [D3.js](http://d3js.org). Node scaffolding via (sahat/hackthon-starter)(https://github.com/sahat/hackathon-starter).",
+  "bugs": {
+    "url": "https://github.com/beforeyouknowit/bitcoin-api-talk/issues"
+  },
+  "homepage": "https://github.com/beforeyouknowit/bitcoin-api-talk",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "bitcoin",
+    "coin",
+    "blockchain",
+    "talk",
+    "decentral",
+    "vancouver"
+  ],
+  "author": "Ashley Theiss and Israa Njjar"
 }
